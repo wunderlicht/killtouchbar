@@ -1,3 +1,4 @@
+![Kill Touch Bar Logo](./Touchbar.png)
 # Kill Touch Bar
 An Alfred workflow to kill/restart the Touch Bar
 
